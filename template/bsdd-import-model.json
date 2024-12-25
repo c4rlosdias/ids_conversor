@@ -1,0 +1,158 @@
+{
+    "ModelVersion": "2.0",
+    "OrganizationCode": null,
+    "DictionaryCode": null,
+    "DictionaryName": null,
+    "DictionaryVersion": null,
+    "LanguageIsoCode": null,
+    "LanguageOnly": false,
+    "UseOwnUri": false,
+    "DictionaryUri": null,
+    "License": null,
+    "LicenseUrl": null,
+    "ChangeRequestEmailAddress": null,
+    "MoreInfoUrl": null,
+    "QualityAssuranceProcedure": null,
+    "QualityAssuranceProcedureUrl": null,
+    "ReleaseDate": null,
+    "Status": null,
+    "Classes": [
+      {
+        "Code": null,
+        "Name": null,
+        "ClassType": null,
+        "Definition": null,
+        "Description": null,
+        "ParentClassCode": null,
+        "RelatedIfcEntityNamesList": [],
+        "Synonyms": [],
+        "ActivationDateUtc": null,
+        "ReferenceCode": null,
+        "CountriesOfUse": [],
+        "CountryOfOrigin": null,
+        "CreatorLanguageIsoCode": null,
+        "DeActivationDateUtc": null,
+        "DeprecationExplanation": null,
+        "DocumentReference": null,
+        "OwnedUri": null,
+        "ReplacedObjectCodes": [],
+        "ReplacingObjectCodes": [],
+        "RevisionDateUtc": null,
+        "RevisionNumber": null,
+        "Status": null,
+        "SubdivisionsOfUse": [],
+        "Uid": null,
+        "VersionDateUtc": null,
+        "VersionNumber": null,
+        "VisualRepresentationUri": null,
+        "ClassProperties": [
+          {
+            "Code": null,
+            "PropertyCode": null,
+            "PropertyUri": null,
+            "Description": null,
+            "PropertySet": null,
+            "Unit": null,
+            "PredefinedValue": null,
+            "IsRequired": null,
+            "IsWritable": null,
+            "MaxExclusive": null,
+            "MaxInclusive": null,
+            "MinExclusive": null,
+            "MinInclusive": null,
+            "Pattern": null,
+            "OwnedUri": null,
+            "PropertyType": null,
+            "SortNumber": null,
+            "Symbol": null,
+            "AllowedValues": [
+              {
+                "Code": null,
+                "Value": null,
+                "Description": null,
+                "Uri": null,
+                "SortNumber": null,
+                "OwnedUri": null
+              }
+            ]
+          }
+        ],
+        "ClassRelations": [
+          {
+            "RelationType": null,
+            "RelatedClassUri": null,
+            "RelatedClassName": null,
+            "Fraction": null,
+            "OwnedUri": null
+          }
+        ]
+      }
+    ],
+    "Properties": [
+      {
+        "Code": null,
+        "Name": null,
+        "Definition": null,
+        "Description": null,
+        "DataType": null,
+        "Units": [],
+        "Example": null,
+        "ActivationDateUtc": null,
+        "ConnectedPropertyCodes": [],
+        "CountriesOfUse": [],
+        "CountryOfOrigin": null,
+        "CreatorLanguageIsoCode": null,
+        "DeActivationDateUtc": null,
+        "DeprecationExplanation": null,
+        "Dimension": null,
+        "DimensionLength": null,
+        "DimensionMass": null,
+        "DimensionTime": null,
+        "DimensionElectricCurrent": null,
+        "DimensionThermodynamicTemperature": null,
+        "DimensionAmountOfSubstance": null,
+        "DimensionLuminousIntensity": null,
+        "DocumentReference": null,
+        "DynamicParameterPropertyCodes": [],
+        "IsDynamic": false,
+        "MaxExclusive": null,
+        "MaxInclusive": null,
+        "MinExclusive": null,
+        "MinInclusive": null,
+        "MethodOfMeasurement": null,
+        "OwnedUri": null,
+        "Pattern": null,
+        "PhysicalQuantity": null,
+        "PropertyValueKind": null,
+        "ReplacedObjectCodes": [],
+        "ReplacingObjectCodes": [],
+        "RevisionDateUtc": null,
+        "RevisionNumber": null,
+        "Status": null,
+        "SubdivisionsOfUse": [],
+        "TextFormat": null,
+        "Uid": null,
+        "VersionDateUtc": null,
+        "VersionNumber": null,
+        "VisualRepresentationUri": null,
+        "PropertyRelations": [
+          {
+            "RelatedPropertyName": null,
+            "RelatedPropertyUri": null,
+            "RelationType": null,
+            "OwnedUri": null
+          }
+        ],
+        "AllowedValues": [
+          {
+            "Code": null,
+            "Value": null,
+            "Description": null,
+            "Uri": null,
+            "SortNumber": null,
+            "OwnedUri": null
+          }
+        ]
+      }
+    ]
+  }
