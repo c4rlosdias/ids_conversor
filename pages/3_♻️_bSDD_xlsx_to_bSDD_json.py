@@ -260,7 +260,7 @@ with st.container():
         if st.button("Submit"):
             try:
                 excel = load_excel(st.session_state.xlsx_file)
-                bsdd_template = json.load(open(".\\template\\bsdd-import-model.json", encoding="utf-8"))
+                bsdd_template = json.load(open("./template/bsdd-import-model.json", encoding="utf-8"))
                 bsdd_data = excel2bsdd(excel, bsdd_template)
                 st.session_state.result_json = json.dumps(bsdd_data, indent = 2)
 
