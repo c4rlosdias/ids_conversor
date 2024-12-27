@@ -124,7 +124,7 @@ with st.container():
                 copyright   = st.text_input('_Copyright:_')
                 version     = st.text_input('_Version:_')
                 author      = st.text_input('_Author:_', 'xxxxx@xxxxx.xxx')
-                ifc_version = st.selectbox('_IFC Version:_', ('IFC2X3', 'IFC4', 'IFC4X3'))
+                ifc_version = st.selectbox('_IFC Version:_', ('IFC2X3', 'IFC4', 'IFC4X3_ADD2'))
 
             with col2:
                 date        = st.text_input('_Date:_', datetime.date.today())
